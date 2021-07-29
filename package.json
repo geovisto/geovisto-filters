@@ -1,6 +1,6 @@
 {
   "name": "geovisto-filters",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Geovisto tool which provides support for data filtering",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -22,7 +22,7 @@
     "spatial-data",
     "visualization"
   ],
-  "homepage": "https://github.com/geovisto/geovisto-themes",
+  "homepage": "https://github.com/geovisto/geovisto-filters",
   "author": {
     "name": "Jiri Hynek",
     "url": "https://github.com/jirka"
