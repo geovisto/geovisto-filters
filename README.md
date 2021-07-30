@@ -9,6 +9,7 @@ This repository is a snapshot of Geovisto ``tools/filters`` derived from the dev
 import {
     GeovistoFiltersTool
 } from 'geovisto-filters';
+import 'geovisto-filters/dist/index.css';
 
 // ,,,
 

@@ -1,6 +1,6 @@
 {
   "name": "geovisto-filters",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Geovisto tool which provides support for data filtering",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
