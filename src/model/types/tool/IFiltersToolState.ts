@@ -1,10 +1,11 @@
 // Geovisto core
 import {
+    IMapFilterManager,
+    IMapFilterRule,
     IMapToolState
 } from "geovisto";
 
-import IMapFilterManager from "../filter/IMapFilterManager";
-import IMapFilterRule from "../filter/IMapFilterRule";
+
 import IFiltersToolConfig from "./IFiltersToolConfig";
 import IFiltersToolDefaults from "./IFiltersToolDefaults";
 import IFiltersToolProps from "./IFiltersToolProps";

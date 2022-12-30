@@ -1,10 +1,10 @@
 // Geovisto core
 import {
+    IMapFilterManager,
+    IMapFilterRule,
     IMapToolProps
 } from "geovisto";
 
-import IMapFilterManager from "../filter/IMapFilterManager";
-import IMapFilterRule from "../filter/IMapFilterRule";
 
 /**
  * This type provides the specification of the filters tool props model.
